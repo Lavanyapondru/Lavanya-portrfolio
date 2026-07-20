@@ -343,7 +343,7 @@ function Initial() {
                         <p className="card-text">
                           Designed a nature‑themed responsive site with immersive visuals and adaptive layouts, delivering a smooth browsing experience across devices.
                         </p>
-                         <a href="https://github.com/Lavanyapondru/Aranyak-responsive-website" target="_blank" class="btn btn-outline-light me-3">View Project</a>
+                         <a href="https://aranyak-responsive-website.vercel.app/" target="_blank" class="btn btn-outline-light me-3">View Project</a>
                         <a href="https://github.com/Lavanyapondru/Aranyak-responsive-website" target="_blank" class="btn btn-outline-light">View Code</a>
                       </div>
                     </div>
@@ -395,8 +395,8 @@ function Initial() {
                         <p className="card-text">
                           Built a professional service showcase platform with structured sections, responsive grids, and clear navigation to highlight offerings effectively.
                         </p>
-                         <a href="https://github.com/Lavanyapondru/srinivasaservices" target="_blank" class="btn btn-outline-light me-3">View Project</a>
-                        <a href="https://srinivasaservices.vercel.app/" target="_blank" class="btn btn-outline-light">View Code</a>
+                         <a href="https://srinivasaservices.vercel.app/" target="_blank" class="btn btn-outline-light me-3">View Project</a>
+                        <a href="https://github.com/Lavanyapondru/srinivasaservices" target="_blank" class="btn btn-outline-light">View Code</a>
                       </div>
                     </div>
                   </div>
