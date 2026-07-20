@@ -158,7 +158,7 @@ function Initial() {
                 <i className="bi bi-linkedin"></i>
               </a>
             </div>
-            <a href="/Ms. Lavanya_Web developer.pdf" className="text-decoration-none mt-5 ms-3" download >
+            <a href="/Ms.Lavanya_Web developer.pdf" className="text-decoration-none mt-5 ms-3" download >
             <button className="resume"><i className="bi bi-download"></i> Resume</button>
     
   </a>
