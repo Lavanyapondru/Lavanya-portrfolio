@@ -177,13 +177,13 @@ function Initial() {
               {/* About Section */}
               <section id="about" className="mb-5">
                 <h2 className="about mt-3">About Me</h2>
-                <p className="lead">
+                <p className="">
                   Hi, I'm Lavanya — a passionate web developer with a strong
                   foundation in HTML, CSS, JavaScript, and React. As a fresher,
                   I bring fresh ideas, adaptability, and a drive to build
                   responsive, user‑friendly websites that make a real impact.
                 </p>
-                <p className="lead">
+                <p className="">
                   My journey is guided by curiosity and continuous learning. I
                   enjoy solving problems, refining designs, and creating clean,
                   efficient code that balances speed with quality. With an MCA
@@ -197,7 +197,7 @@ function Initial() {
                 <h2>Technical Skills</h2>
                 <div className="row align-items-center justify-content-center justify-column">
                   <div className="mt-1 mb-5">
-                  <p className="lead">"Passionate about shaping responsive digital experiences, I merge creativity with modern web technologies to deliver clean, accessible, and performance‑driven solutions."</p>
+                  <p className="">"Passionate about shaping responsive digital experiences, I merge creativity with modern web technologies to deliver clean, accessible, and performance‑driven solutions."</p>
                   <p className="lh-1"><i class="bi bi-arrow-right fs-5 me-2"></i>Specialized in responsive website development.</p>
                   <p className="lh-1"><i class="bi bi-arrow-right fs-5 me-2"></i>Experienced with modern JavaScript frameworks.</p>
                   <p className="lh-1"><i class="bi bi-arrow-right fs-5 me-2"></i>Strong collaboration with designers and back-end teams.</p>
@@ -410,7 +410,7 @@ function Initial() {
 <section id="contact" className="mb-5">
   <h2>Contact</h2>
   {/* <h3 className="text-start text-primary">Get In Touch</h3> */}
-  <p className=" lead">
+  <p className="">
     I’m always excited to collaborate on new projects or discuss web development opportunities. 
     Feel free to reach out through any of the channels below.
   </p>
