@@ -407,9 +407,8 @@ function Initial() {
 
 
                {/* Contact Section */}
-<section id="contact" className="mb-5">
+  <section id="contact" className="mb-5">
   <h2>Contact</h2>
-  {/* <h3 className="text-start text-primary">Get In Touch</h3> */}
   <p className="">
     I’m always excited to collaborate on new projects or discuss web development opportunities. 
     Feel free to reach out through any of the channels below.
@@ -448,7 +447,7 @@ function Initial() {
     </a>
   </div>
   </div>
-</section>
+  </section>
 
 
 
