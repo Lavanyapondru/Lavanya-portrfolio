@@ -392,7 +392,7 @@ function Initial() {
                       <div className="card-body">
                         <h5 className="card-title">Technozinc</h5>
                         <p className="card-text">
-                        A modern web project hosted on Vercel, showcasing clean design, responsive UI, and deployment with frameworks like Next.js.                        </p>
+                        A modern web project hosted on Vercel, showcasing clean design, responsive UI, and deployment with frameworks like React.js.                        </p>
                          <a href="https://technozinc.vercel.app/" target="_blank" class="btn btn-outline-light me-3">View Project</a>
                         <a href="https://github.com/Lavanyapondru/Technozinc" target="_blank" class="btn btn-outline-light">View Code</a>
                       </div>
@@ -403,7 +403,8 @@ function Initial() {
                       <div className="card-body">
                         <h5 className="card-title">Employee API</h5>
                         <p className="card-text">
-                         A backend service hosted on Vercel that manages employee records. It provides RESTful CRUD operations for seamless integration with management systems.                        </p>
+                         A backend service hosted on Vercel that manages employee records. It provides RESTful CRUD operations for seamless integrations.To really access the system, you need to enter: Username: emilys Password: emilyspass
+                         </p>
                          <a href="https://employee-api-rkp2.vercel.app/" target="_blank" class="btn btn-outline-light me-3">View Project</a>
                         <a href="https://github.com/Lavanyapondru/Employee-API" target="_blank" class="btn btn-outline-light">View Code</a>
                       </div>
@@ -415,10 +416,36 @@ function Initial() {
                       <div className="card-body">
                         <h5 className="card-title">Drivin Responsive Website</h5>
                         <p className="card-text">
-                         Built a sleek car rental landing page with responsive layouts and optimized navigation, ensuring seamless user experience across devices.
+                         Built a sleek car rental landing page with responsive layouts with using Html,css3, Bootstrap5 and javascript, react.js for optimized navigation. To ensuring seamless user experience across devices with responsive too with smooth navigations and hoverings.
                         </p>
                         <a href="https://drivin-responsive-website.vercel.app/" target="_blank" class="btn btn-outline-light me-3">View Project</a>
                          <a href="https://github.com/Lavanyapondru/Drivin-responsive-website" target="_blank" class="btn btn-outline-light">View Code</a>
+                      </div>
+                    </div>
+                  </div>
+
+                   <div className="recents col-md-6 mb-3 text-center">
+                    <div className="card project-card">
+                         <img src="project14.png" class="w-100 project" alt="..."/>
+                      <div className="card-body">
+                        <h5 className="card-title">Matti Ganesh</h5>
+                        <p className="card-text">
+Developed an artistic static website Matti Ganesh  using React.js, JavaScript, and Bootstrap to showcase handmade eco-friendly clay Ganesh idols, with beautiful gallery layout with responsive .                        </p>
+                        <a href="https://matti-ganesh-by-krish-creative-arts.vercel.app/" target="_blank" class="btn btn-outline-light me-3">View Project</a>
+                         <a href="https://github.com/Lavanyapondru/MattiGaneshByKrishCreativeArts" target="_blank" class="btn btn-outline-light">View Code</a>
+                      </div>
+                    </div>
+                  </div>
+
+                   <div className="recents col-md-6 mb-3 text-center">
+                    <div className="card project-card">
+                         <img src="project13.png" class="w-100 project" alt="..."/>
+                      <div className="card-body">
+                        <h5 className="card-title">Sri Venkateswara Jewellers</h5>
+                        <p className="card-text">
+Developed a modern, responsive Static website for SV Jewellers using React.js, Javascript and Bootstrap, featuring elegant product showcases, category filtering, and a premium luxury UI.                        </p>
+                        <a href="https://sv-jewellers.vercel.app/" target="_blank" class="btn btn-outline-light me-3">View Project</a>
+                         <a href="https://github.com/Lavanyapondru/sv-jewellers" target="_blank" class="btn btn-outline-light">View Code</a>
                       </div>
                     </div>
                   </div>
